@@ -1,17 +1,17 @@
-## 👋 Hey there
+## 👋 Hey there, its me
 
 🎯 23 | Self-Taught Hacker | Lazy Hunter™ | Exploit   
 🔍 Currently grinding through active HTB machines and AI/ML Prompt Engineering 
 🎓 Certified in:  
 - 🛡️ Burp Suite Practitioner  
 - 🧪 PentesterLab  
-- ☁️ AWS & more  
-
+- ☁️ AWS & more
+- 🚀 Open to collab on LEH and Bug Hunting (Active on X and Insta)
 ---
 
 💭 I break things to learn how they work.  
-💻 Passionate about web security, bug bounties and web3 security.  
-⏳ Always leveling up — one shell at a time.
+💻 Passionate about web security, bug bounties and CTFs.  
+⏳ Always leveling up.
 
 > 🐚 `$ whoami`: Lazy but lethal.
 
