@@ -1,37 +1,24 @@
-## 👋 Hey there, its me ADHD
+👋 Hey there, it’s me — ADHD
 
 🎯 22 | Self-Taught | Lazy Hunter always learning
 
-🔍 Currently grinding through active HTB machines and AI/ML Prompt Engineering 
-🎓 Certified in:  
-- 🛡️ Burp Suite Practitioner  
-- 🧪 PentesterLab  
-- ☁️ AWS & more
-- 🚀 Open to collab on LEH and Bug Hunting (Active on X and Insta)
----
+🔍 Currently grinding:
+	•	Active HTB machines
+	•	AI/ML Prompt Engineering
 
-💭 I break things to learn how they work.  
-💻 Passionate about web security, bug bounties and CTFs.  
+🎓 Certified in:
+	•	🛡️ Burp Suite Practitioner
+	•	🧪 PentesterLab
+	•	☁️ AWS
+	•	🧠 And more…
+
+🤝 Open to collaborate on LEH & Bug Hunting
+📍 Active on X and Insta
+
+⸻
+
+💭 I break things to learn how they work.
+💻 Passionate about web security, bug bounties, and CTFs
 ⏳ Always leveling up.
 
-> 🐚 `$ whoami`: Lazy but lethal.
-
-
-
-
-
-
-<!--
-**0xCh3ckm4t3/0xCh3ckm4t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐚 $ whoami: Lazy but lethal.
