@@ -1,6 +1,6 @@
-## 👋 Hey there, its me
+## 👋 Hey there, its me ADHD
 
-🎯 23 | Self-Taught Hacker | Lazy Hunter™ | Exploit   
+🎯 22 | Self-Taught | Lazy Hunter always learning
 🔍 Currently grinding through active HTB machines and AI/ML Prompt Engineering 
 🎓 Certified in:  
 - 🛡️ Burp Suite Practitioner  
