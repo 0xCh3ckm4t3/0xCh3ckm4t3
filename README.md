@@ -5,7 +5,7 @@
 🎓 Certified in:  
 - 🛡️ Burp Suite Practitioner  
 - 🧪 PentesterLab  
-- ☁️ AWS Fundamentals & more  
+- ☁️ AWS & more  
 
 ---
 
