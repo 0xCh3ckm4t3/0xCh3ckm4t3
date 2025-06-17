@@ -1,7 +1,7 @@
 ## 👋 Hey there
 
 🎯 23 | Self-Taught Hacker | Lazy Hunter™ | Exploit   
-🔍 Currently grinding through active HTB machines
+🔍 Currently grinding through active HTB machines and AI/ML Prompt Engineering 
 🎓 Certified in:  
 - 🛡️ Burp Suite Practitioner  
 - 🧪 PentesterLab  
