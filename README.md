@@ -1,4 +1,24 @@
-## Hi there 👋
+## 👋 Hey there
+
+🎯 23 | Self-Taught Hacker | Lazy Hunter™ | Exploit   
+🔍 Currently grinding through active HTB machines
+🎓 Certified in:  
+- 🛡️ Burp Suite Practitioner  
+- 🧪 PentesterLab  
+- ☁️ AWS Fundamentals & more  
+
+---
+
+💭 I break things to learn how they work.  
+💻 Passionate about web security, bug bounties and web3 security.  
+⏳ Always leveling up — one shell at a time.
+
+> 🐚 `$ whoami`: Lazy but lethal.
+
+
+
+
+
 
 <!--
 **0xCh3ckm4t3/0xCh3ckm4t3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
