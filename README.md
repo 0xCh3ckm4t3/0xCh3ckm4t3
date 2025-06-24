@@ -1,4 +1,4 @@
-👋 Hey there, it’s me — ADHD
+👋 Hey there, it’s me
 
 🎯 22 | Self-Taught | Lazy Hunter always learning
 
