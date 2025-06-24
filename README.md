@@ -12,6 +12,8 @@
 	•	☁️ AWS
 	•	🧠 And more…
 
+ BlockChain NewB ;)
+
 🤝 Open to collaborate on LEH & Bug Hunting
 📍 Active on X and Insta
 
