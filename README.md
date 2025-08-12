@@ -1,2 +1,2 @@
 BlockChain NewB ;)
-Open to collaborating on CTF Teams & Threat Hunting
+Open to collaborating on CTF and Bug Hunting
